@@ -4,7 +4,7 @@ Basic java programs
 # Description
 
 This Repository contains Basic programs and codes in Java of old standard.
-You can add your codes proper working in this repository.Beginners are welcome to get their first PR towards Hacktober.
+You can add your codes proper working in this repository. Beginners are welcome to get their first PR towards Hacktoberfest.
 
 # Why contribute to this repository
 * Beginner-friendly
