@@ -1,0 +1,25 @@
+//Evil number.......Enter a binary number
+
+//1001 - 
+//1 digits = 2
+//0 digits = 2
+
+// 2 = 2 ...hence an Evil number
+
+import java.util.Scanner;
+
+public class Program
+{
+    public static void main(String[] args) 
+    {
+    
+    
+        Scanner sc = new Scanner(System.in);
+        
+        System.out.println("Enter the Binary number :");
+        int n = sc.nextInt();
+        System.out.println(n);
+        
+        int catcher = FindEvilNumber(n);
+        
+            if(catcher == 1)
