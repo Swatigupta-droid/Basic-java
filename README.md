@@ -24,11 +24,11 @@ For contributions in this repository, please read CONTRIBUTION.md first. (Please
     git branch <BRANCH_NAME>
 
 * Now checkout to the branch.
-    git chechkout <BRANCH_NAME>
+    git checkout <BRANCH_NAME>
 
-* Now create any code file(extension has to be .java) and save changes.
+* Now create any code file (extension has to be .java) and save changes.
 
-* Now follow these 3 make first PR(If you are a Beginner).
+* Now follow these 3 make first PR (If you are a Beginner).
     git add .
     git commit -m "Any Message you want to write"
     git push origin <BRANCH_NAME>
